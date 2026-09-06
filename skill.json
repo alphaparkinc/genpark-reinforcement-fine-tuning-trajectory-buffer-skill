@@ -1,0 +1,15 @@
+{
+  "name": "genpark-reinforcement-fine-tuning-trajectory-buffer-skill",
+  "version": "1.0.0",
+  "description": "Prioritized experience replay buffer for agent reinforcement fine-tuning with advantage estimation.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "experience-replay",
+    "trajectory-buffer",
+    "rft",
+    "grpo",
+    "advantage-estimation"
+  ]
+}
